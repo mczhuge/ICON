@@ -10,7 +10,7 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 Will be released.
 
 ## Saliency maps 
-- saliency maps:  [Baidu | 提取码:bopg](https://pan.baidu.com/s/19XV19I_0gfAjx2gwcweZcw) 
+- saliency maps: [Baidu | 提取码:bopg](https://pan.baidu.com/s/19XV19I_0gfAjx2gwcweZcw) 
 - camouflage maps: will be updated.
 
 ## Citation
