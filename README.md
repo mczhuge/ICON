@@ -11,7 +11,7 @@ Will be released soon.
 
 ## Prediction Maps
 - saliency maps: [Baidu | 提取码:bopg](https://pan.baidu.com/s/19XV19I_0gfAjx2gwcweZcw) 
-- camouflage maps: will be updated.
+- camouflaged maps: will be updated.
 
 ## Citation
 ```
