@@ -1,4 +1,4 @@
-## [Salient Object Detection via Integrity Learning](https://https://arxiv.org/pdf/2101.07663.pdf)
+## [Salient Object Detection via Integrity Learning](https://arxiv.org/pdf/2101.07663.pdf)
 by Mingchen Zhuge^, Deng-Ping Fan^, Nian Liu, Dingwen Zhang*, Dong Xu, Ling Shao.
 
 ## Introduction
