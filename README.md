@@ -9,7 +9,7 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 ## Code
 Will be released soon.
 
-## Saliency maps & Camouflaged Maps
+## Prediction Maps
 - saliency maps: [Baidu | 提取码:bopg](https://pan.baidu.com/s/19XV19I_0gfAjx2gwcweZcw) 
 - camouflage maps: will be updated.
 
