@@ -18,12 +18,13 @@ Will be released soon.
 
   We provide COD10K, CPD1K, CAMO, CHAMELEON.
 
+## Qualitative Comparison
+![result4](result_4.png) 
+
 ## Quantitative Comparison
 ![result1](result_1.png) 
 ![result2](result_2.png) 
-
-## Qualitative Comparison
-![result4](result_4.png) 
+![result3](result_3.png) 
 
 ## Citation
 ```
