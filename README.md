@@ -13,6 +13,13 @@ Will be released soon.
 - saliency maps: [Baidu | 提取码:bopg](https://pan.baidu.com/s/19XV19I_0gfAjx2gwcweZcw) 
 - camouflaged maps:  [Baidu | 提取码:ykfd](https://pan.baidu.com/s/1GHU712tkBDwfzPEfDeWT1A)
 
+## Quantitative Comparison
+![result1](result_1.png) 
+![result2](result_2.png) 
+![result3](result_3.png) 
+
+## Qualitative Comparison
+![result4](result_4.png) 
 
 ## Citation
 ```
