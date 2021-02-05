@@ -11,7 +11,9 @@ Will be released soon.
 
 ## Prediction Maps
 - saliency maps: [Baidu | 提取码:bopg](https://pan.baidu.com/s/19XV19I_0gfAjx2gwcweZcw) 
+  We provide DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD, SOC(trained on DUTS), SOC(trained on SOC). 
 - camouflaged maps:  [Baidu | 提取码:ykfd](https://pan.baidu.com/s/1GHU712tkBDwfzPEfDeWT1A)
+  We provide COD10K, CPD1K, CAMO, CHAMELEON.
 
 ## Quantitative Comparison
 ![result1](result_1.png) 
