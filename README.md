@@ -23,7 +23,7 @@ Will be released soon.
 
 ## Quantitative Comparison
 ![result1](result_1_new.png) 
-![result2](result_2.png) 
+![result2](result_2_new.png) 
 ![result3](result_3_new.png) 
 
 ## Citation
