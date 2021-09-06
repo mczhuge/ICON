@@ -18,13 +18,6 @@ Will be released soon.
 
   We provide COD10K, CPD1K, CAMO, CHAMELEON.
   
-<style>
-img{
-    width: 60%;
-    padding-left: 20%;
-}
-</style>
-
 ## Qualitative Comparison
 ![result4](result_4.png) 
 ![result5](result_5.png) 
