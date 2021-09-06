@@ -10,13 +10,11 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 Will be released soon.
 
 ## Prediction Maps
-- saliency maps: [Baidu | 提取码:bopg](https://pan.baidu.com/s/19XV19I_0gfAjx2gwcweZcw) 
+- ICON-S saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/18_61oFS2iTlsenFEFKAjzg) 
+- ICON-P saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1Qk7rXrkdrkNgpeHbEaBZUA) 
+- ICON-R saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/13QxDdOMrSrXj_O_XlWwhbw) 
+- ICON-V saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1lded2LsYb07uAMGDT9XNNA) 
 
-  We provide DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD, SOC(trained on DUTS), SOC(trained on SOC). 
-  
-- camouflaged maps:  [Baidu | 提取码:ykfd](https://pan.baidu.com/s/1GHU712tkBDwfzPEfDeWT1A)
-
-  We provide COD10K, CPD1K, CAMO, CHAMELEON.
   
 ## Qualitative Comparison
 ![result4](result_4.png) 
