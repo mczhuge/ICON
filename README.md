@@ -17,6 +17,13 @@ Will be released soon.
 - camouflaged maps:  [Baidu | 提取码:ykfd](https://pan.baidu.com/s/1GHU712tkBDwfzPEfDeWT1A)
 
   We provide COD10K, CPD1K, CAMO, CHAMELEON.
+  
+<style>
+img{
+    width: 60%;
+    padding-left: 20%;
+}
+</style>
 
 ## Qualitative Comparison
 ![result4](result_4.png) 
