@@ -29,7 +29,8 @@ Will be released soon.
 @article{zhuge2021salient,
   title={Salient Object Detection via Integrity Learning},
   author={Zhuge, Mingchen and Fan, Deng-Ping and Liu, Nian and Zhang, Dingwen and Xu, Dong and Shao, Ling},
-  journal={arXiv preprint arXiv:2101.07663},
-  year={2021}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
 }
 ```
