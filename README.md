@@ -21,7 +21,6 @@ Will be released soon.
 ![result4](result_4.png) 
 ![result2](result_2.png) 
 ## Quantitative Comparison
-![result1](result_1.png) 
 ![result5](result_5.png) 
 
 ## Citation
