@@ -23,6 +23,8 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 
 ☀️ Our method releases an efficient way to conduct **SOC benchmark**.
 
+☀️ Our method can also achieve SOTA performances on **COD benchmark**.
+
 ## Get Start
 **1. Download Datasets and Checkpoints.**
 
