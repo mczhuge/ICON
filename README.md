@@ -1,7 +1,16 @@
 # <p align=center>`Salient Object Detection via Integrity Learning`</p><!-- omit in toc -->
-Mingchen Zhuge, Deng-Ping Fan, Nian Liu, Dingwen Zhang*, Dong Xu, Ling Shao.
 
-[**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)[**[中文版]**](https://dengpingfan.github.io/papers/[2022][TPAMI]ICON_Chinese.pdf)
+> **Authors:**
+> [Mingchen Zhuge](https://github.com/GewelsJI),
+> [Deng-Ping Fan](https://dengpingfan.github.io/),
+> [Nian Liu](https://github.com/johnson111788),
+> [Dingwen Zhang](https://vas.mpi-inf.mpg.de/dengxin/),
+> [Dong Xu](https://people.ee.ethz.ch/~aliniger/), &
+> [Ling Shao](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html).
+
+This repository contains the source code, prediction results, and evaluation toolbox of our Deep Gradient Network, also called DGNet. The technical report could be found at [**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)[**[中文版]**](https://dengpingfan.github.io/papers/[2022][TPAMI]ICON_Chinese.pdf).
+
+
 
 
 
