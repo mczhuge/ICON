@@ -8,7 +8,7 @@
 > [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN), &
 > [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN).
 
-This repository contains the source code, prediction results, and evaluation toolbox of our ICON method. The technical report could be found at [**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)[**[中文版]**](https://dengpingfan.github.io/papers/[2022][TPAMI]ICON_Chinese.pdf).
+☀️ This repository contains the source code, prediction results, and evaluation toolbox of our ICON method. The technical report could be found at [**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)[**[中文版]**](https://dengpingfan.github.io/papers/[2022][TPAMI]ICON_Chinese.pdf).
 
 ## Introduction
 ![framework](util/figure/framework.png) 
@@ -30,12 +30,12 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 sh util/scripts/train_icon.sh
 ```
 
-**Test ICON.**
+**3. Test ICON.**
 ```
 sh util/scripts/test_icon.sh
 ```
 
-**Eval ICON.**
+**4. Eval ICON.**
 ```
 sh util/scripts/run_sod_eval.sh
 sh util/scripts/run_soc_eval.sh
