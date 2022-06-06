@@ -21,7 +21,7 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 
 ☀️ Our method ensembles the quick **[SOD evaltools](https://github.com/mczhuge/SOCToolbox).**
 
-☀️ Our method releases an efficient way to conduct **SOC benchmark**.
+☀️ Our method releases an efficient way to conduct **SOC dataset**.
 
 ☀️ Our method can also achieve SOTA performances on **COD benchmark**.
 
