@@ -1,4 +1,4 @@
-## [Salient Object Detection via Integrity Learning](https://arxiv.org/pdf/2101.07663.pdf)
+# <p align=center>`Salient Object Detection via Integrity Learning`</p><!-- omit in toc -->
 Mingchen Zhuge, Deng-Ping Fan, Nian Liu, Dingwen Zhang*, Dong Xu, Ling Shao.
 
 [**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)[**[中文版]**](https://dengpingfan.github.io/papers/[2022][TPAMI]ICON_Chinese.pdf)
