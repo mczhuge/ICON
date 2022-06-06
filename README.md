@@ -1,18 +1,9 @@
 ## [Salient Object Detection via Integrity Learning](https://arxiv.org/pdf/2101.07663.pdf)
-by Mingchen Zhuge, Deng-Ping Fan, Nian Liu, Dingwen Zhang*, Dong Xu, Ling Shao.
+Mingchen Zhuge, Deng-Ping Fan, Nian Liu, Dingwen Zhang*, Dong Xu, Ling Shao.
 
 [**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)[**[中文版]**](https://dengpingfan.github.io/papers/[2022][TPAMI]ICON_Chinese.pdf)
 
-## Citation
-```
-@article{zhuge2021salient,
-  title={Salient Object Detection via Integrity Learning},
-  author={Zhuge, Mingchen and Fan, Deng-Ping and Liu, Nian and Zhang, Dingwen and Xu, Dong and Shao, Ling},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
-  publisher={IEEE}
-}
-```
+
 
 ## Introduction
 ![framework](util/figure/framework.png) 
@@ -36,4 +27,13 @@ Will be released soon.
 ![result1](util/figure/result_1.png)
 ![result5](util/figure/result_5.png) 
 
-
+## Citation
+```
+@article{zhuge2021salient,
+  title={Salient Object Detection via Integrity Learning},
+  author={Zhuge, Mingchen and Fan, Deng-Ping and Liu, Nian and Zhang, Dingwen and Xu, Dong and Shao, Ling},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
+```
