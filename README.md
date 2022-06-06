@@ -18,7 +18,9 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 ## Get Start
 **1. Download Datasets and Checkpoints.**
 
-Download from https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA **(Key: ICON)**
+- Datasets: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA) 
+- Checkpoints: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA) 
+
 
 **2. Train ICON.**
 ```
