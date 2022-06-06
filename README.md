@@ -29,7 +29,6 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 - Datasets: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA) 
 - Checkpoints: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA) 
 
-
 **2. Train ICON.**
 ```
 sh util/scripts/train_icon.sh
@@ -46,14 +45,12 @@ sh util/scripts/run_sod_eval.sh
 sh util/scripts/run_soc_eval.sh
 ```
 
-
 ## Prediction Maps
 - ICON-S saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/18_61oFS2iTlsenFEFKAjzg) 
 - ICON-P saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1Qk7rXrkdrkNgpeHbEaBZUA) 
 - ICON-R saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/13QxDdOMrSrXj_O_XlWwhbw) 
 - ICON-V saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1lded2LsYb07uAMGDT9XNNA) 
 
-  
 ## Qualitative Comparison
 ![result4](util/figure/result_4.png) 
 ![result2](util/figure/result_2.png) 
