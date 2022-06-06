@@ -209,7 +209,6 @@ class ICON(torch.nn.Module):
         x2 = features[1]
         x3 = features[2]
         x4 = features[3]
-        print(x1.size(), x4.size())
         if len(features) > 4:
             x5 = features[4]   
      
