@@ -17,13 +17,13 @@ Although current salient object detection (SOD) works have achieved fantastic pr
 
 ## News
 
-☀️ Our method supports **VGG, ResNet, PVT, Swin, CycleMLP** as encoder.
+☀️ Our method supports **VGG, ResNet, PVT, Swin, CycleMLP** as alternative encoders.
 
 ☀️ Our method ensembles the quick **[SOD evaltools](https://github.com/mczhuge/SOCToolbox).**
 
-☀️ Our method releases an efficient way to conduct **SOC dataset**.
+☀️ Our method releases an efficient way to conduct the **SOC dataset**.
 
-☀️ Our method can also achieve SOTA performances on **COD benchmark**.
+☀️ Our method can also achieve SOTA performance on the **COD benchmark**.
 
 ## Get Start
 **1. Download Datasets and Checkpoints.**
