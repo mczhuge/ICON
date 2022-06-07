@@ -117,7 +117,8 @@ def train(Dataset, parser):
     optimizer      = torch.optim.SGD([{'params':base}, {'params':head}], lr=cfg.lr, momentum=cfg.momen, weight_decay=cfg.decay, nesterov=True)
 
     # NOTED: PAPER'S SETTING IS 'O1'. WHEN USING 'O1', THE VERSIONS OF APEX/PYTORCH/CUDNN/CUDA ARE IMPORTANT&LIMITED.
-    net, optimizer = amp.initialize(net, optimizer, opt_level='O2') 
+    # Take it seriously because the performance will be affected.
+    net, optimizer = amp.initialize(net, optimizer, opt_level='O1') 
     sw             = SummaryWriter(cfg.savepath)
     global_step    = 0
  
