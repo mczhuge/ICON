@@ -1,4 +1,4 @@
-# <p align=center>`Salient Object Detection via Integrity Learning`</p><!-- omit in toc -->
+## <p align=center>`Salient Object Detection via Integrity Learning`</p><!-- omit in toc -->
 
 > **Authors:**
 > [Mingchen Zhuge](https://github.com/GewelsJI),
