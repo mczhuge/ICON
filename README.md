@@ -53,12 +53,14 @@ sh util/scripts/run_soc_eval.sh
 - ICON-R saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/13QxDdOMrSrXj_O_XlWwhbw) 
 - ICON-V saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1lded2LsYb07uAMGDT9XNNA) 
 
+<!--
 ## Qualitative Comparison
 ![result4](util/figure/result_4.png) 
 ![result2](util/figure/result_2.png) 
 ## Quantitative Comparison
 ![result1](util/figure/result_1.png)
 ![result5](util/figure/result_5.png) 
+-->
 
 ## Citation
 ```
