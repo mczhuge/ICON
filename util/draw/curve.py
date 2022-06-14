@@ -22,7 +22,6 @@ for i, data in enumerate(dataset):
         recall    = sio.loadmat('./result/'+algo+'/'+data+'/rec.mat')['rec'][0]
         precision = sio.loadmat('./result/'+algo+'/'+data+'/prec.mat')['prec'][0]
         plt.plot(recall, precision, color=colors[j], linestyle=linestyles[j], linewidth=linewidths[j], label=algo)
-        #plt.plot( precision, recall, color=colors[j], linestyle=linestyles[j], linewidth=linewidths[j], label=algo)
         plt.axis(axisPR[i])
     #plt.title(data, fontsize=12)
     plt.xlabel('Recall', fontsize=14)
@@ -49,10 +48,9 @@ for i, data in enumerate(dataset):
         flag = False
         plt.ylabel('F-measure', fontsize=14)
     plt.legend(loc="lower center", ncol=2, fontsize=9)
-    #if i == 4:
         
     plt.grid(ls='--')
-#plt.legend(loc='lower center', bbox_to_anchor=(0, 0), ncol=13, fontsize=9)
+
 
 
 plt.show()
