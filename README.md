@@ -1,7 +1,5 @@
 # <p align=center>`Salient Object Detection via Integrity Learning`</p><!-- omit in toc -->
 
---------------------------------------------------------------------------------
-
 > **Authors:**
 > [Mingchen Zhuge](https://github.com/mczhuge),
 > [Deng-Ping Fan](https://dengpingfan.github.io/),
