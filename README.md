@@ -30,12 +30,10 @@ To facilitate integrity learning for SOD, we design a novel **I**ntegrity **Co**
 **1. Download Datasets and Checkpoints.**
 
 - Datasets: 
-* [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA) 
-* [Goole Drive](https://drive.google.com/file/d/1aHYvxXGMsAS0yN4zhKt8kKorVL--9bLu/view?usp=sharing)
+* [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA) | [Goole Drive](https://drive.google.com/file/d/1aHYvxXGMsAS0yN4zhKt8kKorVL--9bLu/view?usp=sharing)
 
 - Checkpoints: 
-* [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA) 
-* [Goole Drive](https://drive.google.com/file/d/1wcL8n3lSc1pswMfDYCOBQJJjwnuhWdwK/view)
+* [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA)  |  [Goole Drive](https://drive.google.com/file/d/1wcL8n3lSc1pswMfDYCOBQJJjwnuhWdwK/view)
 
 **2. Train ICON.**
 ```
