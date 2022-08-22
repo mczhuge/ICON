@@ -26,7 +26,7 @@ To facilitate integrity learning for SOD, we design a novel **I**ntegrity **Co**
 
 - it gives a code for drawing PR/F-measre curves.
 
-☀️ Based on our code, Shi has published a [TCSVT paper (SCI-1)](https://ieeexplore.ieee.org/document/9852486). Congratulation to her!
+☀️ Based on our code, Shi has published a [TCSVT paper (SCI-Q1)](https://ieeexplore.ieee.org/document/9852486). Congratulation to her!
 
 ## Get Start
 **1. Download Datasets and Checkpoints.**
