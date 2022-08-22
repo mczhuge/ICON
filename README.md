@@ -69,6 +69,11 @@ sh util/scripts/run_soc_eval.sh
 ![result5](util/figure/result_5.png) 
 -->
 
+### Acknowlegement
+
+Thanks [Dawn-bin](https://github.com/Dawn-bin) pointing out a code mistake.
+And thanks [Jing-Hui Shi](https://github.com/shijinghuihub) contributes a MLP-encoder version.
+
 ## Citation
 ```
 @article{zhuge2021salient,
