@@ -4,7 +4,7 @@ echo "Paper: https://arxiv.org/pdf/2101.07663.pdf"
 echo "Code: https://github.com/mczhuge/ICON"
 echo "=== Training ICON ==="
 
-:<<!
+
 echo "Now Training ICON-S..."
 python main/train.py \
     --model 'ICON-S' \
@@ -16,9 +16,9 @@ python main/train.py \
     --loss 'CPR' \
     --savepath 'checkpoint/ICON/ICON-S/' \
     --valid True
-!
 
 
+:<<!
 echo "Now Training ICON-M..."
 python main/train.py \
     --model 'ICON-M' \
@@ -30,7 +30,7 @@ python main/train.py \
     --loss 'CPR' \
     --savepath 'checkpoint/ICON/ICON-M/' \
     --valid True
-
+!
 
 :<<!
 echo "Now Training ICON-P..."
