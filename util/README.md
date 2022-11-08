@@ -10,6 +10,7 @@ conda install tensorboard
 conda install tensorboardX
 pip install timm
 pip install matplotlib
+pip install scipy
 ```
 
 Please also install [apex](https://github.com/NVIDIA/apex).
