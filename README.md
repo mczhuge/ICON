@@ -32,7 +32,7 @@ To facilitate integrity learning for SOD, we design a novel **I**ntegrity **Co**
 
 ## Get Start
 
-**0. Install
+**0. Install**
 Please install [Apex](https://github.com/NVIDIA/apex).
 
 **1. Download Datasets and Checkpoints.**
