@@ -169,8 +169,9 @@ def train(Dataset, parser):
             for path in ['datasets/ECSSD/Test', 'datasets/PASCAL-S/Test']:
                 t = Valid(dataset, path, epoch, _MODEL_, _SAVEPATH_, "SOD")
                 t.save()
-            os.system('util/evaltool/run_sod_valid.sh '+'ICON-valid-'+str(epoch+1))
-            
+            #os.system('util/evaltool/run_sod_valid.sh '+'ICON-valid-'+str(epoch+1))
+            cmd = os.path.join(os.getcwd().split('main')[0], "util/evaltool/run_sod_valid.sh")
+            os.system('{} {}'.format('sh', cmd+' ICON-valid-'+str(epoch+1)))                
                        
 
 class Valid(object):
