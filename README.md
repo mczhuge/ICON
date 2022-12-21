@@ -17,7 +17,7 @@ To facilitate integrity learning for SOD, we design a novel **I**ntegrity **Co**
 
 ## News
 
-☀️ [2022/12/21] ICON's results on COD benchmark could be found at [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf).stablished upon our ICON project. We appreciate [CamoFormer](https://github.com/HVision-NKU/CamoFormer)'s contribution, whose code is based on our ICON project as well.
+☀️ [2022/12/21] ICON's results on COD benchmark could be found at [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf). We appreciate [CamoFormer](https://github.com/HVision-NKU/CamoFormer)'s contribution, whose code is based on our ICON project as well.
 
 ☀️ [2022/07/05] Based on our code, Shi has published a [TCSVT paper (SCI-Q1)](https://ieeexplore.ieee.org/document/9852486). Congratulation!
 
