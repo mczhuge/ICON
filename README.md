@@ -17,7 +17,8 @@ To facilitate integrity learning for SOD, we design a novel **I**ntegrity **Co**
 
 ## News
 
-☀️ [2022/12/20] ICON's results on COD benchmark could be found at [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf).
+☀️ [2022/12/20] ICON's results on COD benchmark could be found at [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf). Thanks to [CamoFormer](https://github.com/HVision-NKU/CamoFormer)'s contribution, which is also established upon our ICON project.
+
 ☀️ [2022/07/05] Based on our code, Shi has published a [TCSVT paper (SCI-Q1)](https://ieeexplore.ieee.org/document/9852486). Congratulation!
 
 ☀️ This is a **friendly codebase** for new learners in SOD (or any binary segmentation tasks):
