@@ -16,6 +16,8 @@ This repository contains the source code, prediction results, and evaluation too
 To facilitate integrity learning for SOD, we design a novel **I**ntegrity **Co**gnition **N**etwork (**ICON**), which explores three important components to learn strong integrity features. 1) Unlike the existing models that focus more on feature discriminability, we introduce a  diverse feature aggregation (DFA) component to aggregate features with various receptive fields (*i.e.,* kernel shape and context) and increase the feature diversity. Such diversity is the foundation for mining the integral salient objects. 2) Based on the DFA features, we introduce the integrity channel enhancement (ICE) component with the goal of enhancing feature channels that highlight the integral salient objects (*i.e.,* micro and macro levels) while suppressing the other distracting ones. 3) After extracting the enhanced features, the part-whole verification (PWV) method is employed to determine whether the part and whole object features have strong agreement. Such part-whole agreements can further improve the micro-level integrity for each salient object.
 
 ## News
+
+☀️ [2022/12/20] ICON's results on COD benchmark could be found at [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf).
 ☀️ [2022/07/05] Based on our code, Shi has published a [TCSVT paper (SCI-Q1)](https://ieeexplore.ieee.org/document/9852486). Congratulation!
 
 ☀️ This is a **friendly codebase** for new learners in SOD (or any binary segmentation tasks):
