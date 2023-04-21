@@ -4,7 +4,7 @@
 ```
 conda create --name ICON python=3.8.5
 conda activate ICON
-conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 pip install opencv-python
 conda install tensorboard
 conda install tensorboardX
