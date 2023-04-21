@@ -96,7 +96,6 @@ sh util/scripts/run_soc_eval.sh
 - ICON-R saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/13QxDdOMrSrXj_O_XlWwhbw) 
 - ICON-V saliency maps: [Baidu | 提取码:ICON](https://pan.baidu.com/s/1lded2LsYb07uAMGDT9XNNA) 
 - You can also find them in [Google Drive](- You can also find them in [Google Drive](https://drive.google.com/file/d/16_H322xYPAJ2RY35Gam3Y9bB6ctLJowr/view?usp=sharing).
-).
 
 <!--
 
