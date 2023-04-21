@@ -163,6 +163,7 @@ class ICE(nn.Module):
     def forward(self, in1, in2=None, in3=None, flag=None):
         if in2!=None and in1.size()[2:] != in2.size()[2:]:
             in2 = F.interpolate(in2, size=in1.size()[2:], mode='bilinear')
+            #in2 = F.interpolate(in1, size=in1.size()[2:], mode='bilinear') # Here, I made a silly bug at first. Sorry about it.
         else: in2 = in1
         if in3!=None and in1.size()[2:] != in3.size()[2:]:
             in3 = F.interpolate(in3, size=in1.size()[2:], mode='bilinear')
