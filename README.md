@@ -39,6 +39,19 @@ To facilitate integrity learning for SOD, we design a novel **I**ntegrity **Co**
 
 You could refer to [here](https://github.com/mczhuge/ICON/tree/main/util).
 
+**1. Download Datasets.**
+
+- **Datasets:** 
+
+[Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA)  or [Goole Drive](https://drive.google.com/file/d/1aHYvxXGMsAS0yN4zhKt8kKorVL--9bLu/view?usp=sharing)
+
+also you could quikcly download by running:
+```
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1aHYvxXGMsAS0yN4zhKt8kKorVL--9bLu' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1aHYvxXGMsAS0yN4zhKt8kKorVL--9bLu" -O datasets.zip && rm -rf /tmp/cookies.txt
+```
+
+<!-- 
+(I am now solving the bug.
 **1. Download Datasets and Checkpoints.**
 
 - **Datasets:** 
@@ -50,6 +63,7 @@ also you could quikcly download by running:
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1aHYvxXGMsAS0yN4zhKt8kKorVL--9bLu' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1aHYvxXGMsAS0yN4zhKt8kKorVL--9bLu" -O datasets.zip && rm -rf /tmp/cookies.txt
 ```
 
+
 - **Checkpoints:** 
 
 [Baidu | 提取码:ICON](https://pan.baidu.com/s/1zFXR-xIykUhoj86kiQ3GxA)  or [Goole Drive](https://drive.google.com/file/d/1wcL8n3lSc1pswMfDYCOBQJJjwnuhWdwK/view)
@@ -58,6 +72,7 @@ also you could quikcly download by running:
 ```
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1wcL8n3lSc1pswMfDYCOBQJJjwnuhWdwK' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1wcL8n3lSc1pswMfDYCOBQJJjwnuhWdwK" -O checkpoint.zip && rm -rf /tmp/cookies.txt
 ```
+-->
 
 **2. Train ICON.**
 ```
